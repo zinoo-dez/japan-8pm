@@ -1,0 +1,16 @@
+h1{
+    color: skyblue;
+}
+a{
+    text-decoration: none;
+    text-transform: uppercase;
+}
+p{
+    width: 500px;
+    padding: 20px;
+    background: pink;
+}
+i{
+    color: yellow;
+    font-size: 3rem;
+}
