@@ -1,0 +1,9 @@
+input {
+    padding: 10px;
+}
+input[type="text"]{
+    background: red;
+}
+input[type="email"]{
+    background: rgb(46, 31, 31);
+}
